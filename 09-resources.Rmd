@@ -21,7 +21,7 @@ The [Forestry Graduate Student Portal](https://forestry.ubc.ca/students/graduate
 UBC provides [international student advising](https://students.ubc.ca/about-student-services/international-student-advising) and a [guide for international students.](https://students.ubc.ca/international-student-guide)
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="Looking north east - Telus Science World from False Creek."}
-knitr::include_graphics("img\\vancouver2.jpg")
+knitr::include_graphics(here::here("img/vancouver2.jpg"))
 ```
 
 ## General Vancouver resources {-#resourcesvan}
@@ -33,7 +33,7 @@ If you have not yet looked into accommodation at UBC or in Vancouver check out t
 If you are looking for housing off campus, resources like [Craigslist](https://vancouver.craigslist.org/d/apartments-housing-for-rent/search/apa),  [Kijiji](https://www.kijiji.ca/b-apartments-condos/vancouver/house/c37l1700287a29276001), and [uvrentsline](https://www.uvrentsline.com/) are good places to start.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Looking north from Cambie street and 10th Ave."}
-knitr::include_graphics("img\\vancouver1.png"))
+knitr::include_graphics(here::here("img/vancouver1.png"))
 ```
 
 ### Transit {-#transit}
@@ -53,6 +53,6 @@ UBC has a comprehensive health and well-being centre. More information can be fo
 * [Councelling services](https://students.ubc.ca/health/counselling-services)
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="UBC Forest Sciences Centre. Credit: Don Erhardt."}
-knitr::include_graphics("img\\forestry1.jpg")
+knitr::include_graphics(here::here("img/forestry1.jpg"))
 ```
 
