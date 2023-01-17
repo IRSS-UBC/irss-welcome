@@ -1,3 +1,10 @@
+on:
+  push:
+     branches:
+     # Default branches below
+       - main
+       - master
+
 jobs:  
   bookdown:
     name: Render-Book
