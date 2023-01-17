@@ -11,13 +11,13 @@ Within the IRSS lab itself we have two first aid kits: one in each room. Should 
 ## In the field {-#fieldsafety}
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Piotr and Doug in New Brunswick."}
-knitr::include_graphics(here::here("img\\safety.jpg"))
+knitr::include_graphics(here::here("img/safety.jpg"))
 ```
 
 Prior to going out and doing field work for your project, you will need to complete a safety plan. This involves filling out specific forms, providing important contact details, and outlining how you will keep yourself and your crew mates safe during your work.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sabrina in an aspen stand."}
-knitr::include_graphics(here::here("img\\fieldwork5.jpg"))
+knitr::include_graphics(here::here("img/fieldwork5.jpg"))
 ```
 
 ### Forms {-#safetyforms}
@@ -37,23 +37,23 @@ For safety we have two [SPOT communicator units](https://www.findmespot.com/en-u
 ## Fieldwork {-#fieldwork}
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Andrew in the Albertan boreal."}
-knitr::include_graphics(here::here("img\\fieldwork4.jpg"))
+knitr::include_graphics(here::here("img/fieldwork4.jpg"))
 ```
 
 IRSS lab field work is diverse and often different by project. Field work locations vary from very accessible (hotels and driving directly to field sites), to ‘off the grid’ camping. Field work is a great opportunity to get to know your fellow lab mates and their projects, as well as explore parts of the country you might not normally get to see. Typically when the need for field work arises, Nicholas or the student will send a lab wide email with potential dates and the number of people needed. Students are encouraged to help on at least one field work campaign per year.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Felix and Paul pruning some trees."}
-knitr::include_graphics(here::here("img\\fieldwork2.jpg"))
+knitr::include_graphics(here::here("img/fieldwork2.jpg"))
 ```
 
 When organizing field work, it is important to note what equipment you are planning to use, and to check it out via the Google Doc. The field gear list is located at `"\\FRST-IRSStor\Root\ByProject\Orientation\Field_Gear_List.url"`. Please ask Paul H. or Francois about planning your field work. Field equipment is commonly demoed at the retreat, but additional training will also be provided by other students if needed. Some field equipment will need a sign off from Nicholas prior to being used.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Sometimes the bugs can be bad."}
-knitr::include_graphics(here::here("img\\fieldwork6.jpg"))
+knitr::include_graphics(here::here("img/fieldwork6.jpg"))
 ```
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Sam Hillman (RMIT) measuring a transect in the Alex Fraser Research Forest."}
-knitr::include_graphics(here::here("img\\fieldwork1.jpg"))
+knitr::include_graphics(here::here("img/fieldwork1.jpg"))
 ```
 
 Fieldwork can be expensive. It’s important to know that Nicholas pays most fees related to fieldwork (i.e. food, gas, lodging). To submit an expense report, visit the [workday portal](https://hr.ubc.ca/working-ubc/welcome-workday). From there, click on 'Expenses' in the main menu, and submit a report. If you have any other questions, you can email [Gladys Tecson](https://frm.forestry.ubc.ca/people/staff/) (`gladys.tecson@ubc.ca`). It takes a little while to be processed, but you will be reimbursed.

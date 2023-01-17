@@ -7,7 +7,7 @@ If you have questions about your program, need guidance regarding policy and pro
 If you have payment or banking questions, message [Joanne Dean](https://frm.forestry.ubc.ca/people/staff/) at `joanne.dean@ubc.ca`. Joanne is the administrative manager for the Department of Forest Resources Management.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center', fig.cap="View from UBC looking north west to [Bowen Island](https://www.tourismbowenisland.com/)."}
-knitr::include_graphics(here::here("img\\ubc1.png"))
+knitr::include_graphics(here::here("img/ubc1.png"))
 ```
 
 ## UBC resources - admin {-#resourcesubc}
