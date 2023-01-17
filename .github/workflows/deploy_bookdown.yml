@@ -29,7 +29,7 @@ jobs:
       - uses: r-lib/actions/setup-renv@v2
       
       - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
+        run: Rscript -e 'install.packages(c("rmarkdown","bookdown","readr"))'
 
       - name: Cache bookdown results
         uses: actions/cache@v3
