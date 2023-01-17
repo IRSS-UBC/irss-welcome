@@ -1,4 +1,4 @@
-# A message from Nicholas - {-#nccmsg}
+# A message from Nicholas {-#nccmsg}
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Nicholas delivering a presentation."}
 knitr::include_graphics(here::here("img/ncc.jpg"))
