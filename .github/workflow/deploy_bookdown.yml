@@ -1,21 +1,23 @@
 on:
   push:
-    branches: [main, master]
-  pull_request:
-    branches: [main, master]
+     branches:
+     # Default branches below
+       - main
+       - master
 
-jobs:  
+
+name: renderbook
+
+jobs:
   bookdown:
     name: Render-Book
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
+      # More detail here, https://github.com/r-lib/actions
+      # It's possible to define R and pandoc version if desired
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
-      - name: Install TinyTeX
-        uses: r-lib/actions/setup-tinytex@v1
-        env:
-          TINYTEX_INSTALLER: TinyTeX
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
@@ -24,8 +26,12 @@ jobs:
         with:
           name: _book
           path: _book/
-          
-checkout-and-deploy:
+  
+# Need to first create an empty gh-pages branch
+# see https://pkgdown.r-lib.org/reference/deploy_site_github.html
+# and also add secrets for a GH_PAT and EMAIL to the repository
+# gh-action from Cecilapp/GitHub-Pages-deploy
+  checkout-and-deploy:
    runs-on: ubuntu-20.04
    needs: bookdown
    steps:
@@ -40,8 +46,8 @@ checkout-and-deploy:
          path: _book # optional
      - name: Deploy to GitHub Pages
        uses: Cecilapp/GitHub-Pages-deploy@v3
-       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        with:
-        build_dir: _book
-        branch: gh-pages
+         email: ${{ secrets.EMAIL }}
+         build_dir: _book # optional
+       env:
+         GITHUB_TOKEN: ${{ secrets.GH_PAT }} # https://github.com/settings/tokens
