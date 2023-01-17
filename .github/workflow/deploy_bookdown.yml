@@ -1,9 +1,8 @@
 on:
   push:
-     branches:
-     # Default branches below
-       - main
-       - master
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
 
 jobs:  
   bookdown:
