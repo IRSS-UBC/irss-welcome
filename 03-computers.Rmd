@@ -3,7 +3,7 @@
 Your workstation is a state-of-the-art, powerful, server-grade computer, with two processors, 16 to 24 cores, 64GB of RAM, and a professional graphics card for accelerating 3D computations. It will come with some software pre-installed (e.g. MS Office). However, based on your project, you may request additional software to be installed. 
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="What your workstation will look like. Credit: Dell "}
-knitr::include_graphics("img\\workstation.jpg")
+knitr::include_graphics(here::here("img\\workstation.jpg"))
 ```
 
 ## Software {-#software}
@@ -37,7 +37,7 @@ The **Fancy Zones** plugin allows you to set *zones* on your screen outside of t
 The **Color Picker** allows you to effectively use the dropper from image editing programs anywhere on your computer by pressing `Win` + `Shift` + `C`.
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The lab and its many work stations."}
-knitr::include_graphics("img\\lab.jpg")
+knitr::include_graphics(here::here("img\\lab.jpg"))
 ```
 
 
@@ -50,7 +50,7 @@ If you have some questions about your computer reach out to Nicholas first. The 
 You will receive a laptop that is for your personal use throughout the length of your graduate studies. Please remember that similar to workstations, laptops are also tracked by UBC. If you are unsure about installing a program, please make sure to ask Nicholas before installation. The same responsibilities apply to use of your laptop as the workstation.
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Your laptop. Credit: Dell "}
-knitr::include_graphics("img\\laptop.jpg")
+knitr::include_graphics(here::here("img\\laptop.jpg"))
 ```
 
 If you are a TA and using the laptop for grading or have any TA material on there, it **MUST** be encrypted, which is performed by your IT contact. If your laptop was set up by UBC IT, it is automatically encrypted.
@@ -113,7 +113,7 @@ These same steps are followed to add the backup server discussed [above](#backup
 ## Connecting from home {-#rdp}
 
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center',fig.cap="Remote desktop prompt window."}
-knitr::include_graphics("img\\rdp.png")
+knitr::include_graphics(here::here("img\\rdp.png"))
 ```
 
 In the lab, we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. There are a few steps to follow in order to connect to your lab machine:
@@ -156,7 +156,7 @@ IP: 142.103.230.20
 ```
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="IP address and Port name for step 5."}
-knitr::include_graphics("img\\Printer_5.png")
+knitr::include_graphics(here::here("img\\Printer_5.png"))
 ```
 
 7. If a window appears that asks about driver version, select `Use the driver that is currently installed` for the HP colour printer. Manually select the Xerox driver that you extracted earlier (e.g. `C:\Users\YourCWL\Downloads\ExtractedXeroxDriver`).

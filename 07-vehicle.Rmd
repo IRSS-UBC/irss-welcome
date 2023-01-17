@@ -1,7 +1,7 @@
 # The lab vehicle {-#vehicle}
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap = "The Ford Ranger XLT. Credit: Liam Irwin"}
-knitr::include_graphics("img\\vehicle.jpg")
+knitr::include_graphics(here::here("img\\vehicle.jpg"))
 ```
 
 The IRSS lab has access to a lab vehicle known as the “Lab Truck”. This vehicle is a Ford Ranger XLT 4 wheel drive which is available for students to use for field work. Within the lab we have a designated lab truck manager who is responsible for the maintenance and the booking of the vehicle. If you require the use of the vehicle for your field work, contact the lab manager to book the vehicle for your field work times. 
@@ -23,7 +23,7 @@ The vehicle can be parked in two locations. There is a designated spot for the v
 If you get into an accident while using the vehicle, the registration papers for the vehicle are in the glove box. You are fully insured as a UBC student to drive the vehicle so you can provide your name and address, Nicholas' name and phone number, and vehicle registration information to any police or other people involved in the accident. You should let Nicholas know immediately, regardless of the time of day, and UBC will then become involved with ICBC. 
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap = "Getting stuck can happen! Be prepared to get yourself out."}
-knitr::include_graphics("img\\stuck.jpg")
+knitr::include_graphics(here::here("img\\stuck.jpg"))
 ```
 
 ## Returning from field work {-#vehiclefield}
@@ -33,5 +33,5 @@ You should always leave the truck as you found it (or cleaner)!
 Upon returning from any field work you should discuss the condition of the vehicle with the lab truck manager. If the vehicle has had or requires servicing (e.g. warning lights have gone on the dashboard), please immediately tell the lab track manager so we can ensure it gets serviced in a timely manner. If you returned from field work late, you are able to park the lab truck at home and bring it back to UBC the next day. The truck can be used in exceptional circumstances on the weekend, for example to help with moving or purchasing of lab supplies.
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="A job well done and ready to come home."}
-knitr::include_graphics("img\\fieldwork3.jpg")
+knitr::include_graphics(here::here("img\\fieldwork3.jpg"))
 ```

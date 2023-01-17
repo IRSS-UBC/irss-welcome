@@ -199,7 +199,7 @@ Your thesis is the most important document that you will produce in your time in
 Funding availability is the primary driver of your completion timeline. This can vary from student to student so it's important to talk with Nicholas about your funding situation. MSc students typically get two years of funding; the goal is to complete your degree in that time, but this is not a ‘hard’ rule. Around the two year mark, Nicholas will have a conversation about when you are going to finish. If it takes you an extra month or two Nicholas will continue paying your stipend, given you have shown consistent efforts to finish. PhD students get four years of funding. The goal is to complete your comprehensive exam before you finish your second year, and defend in your fourth year. Again, Nicholas will likely have a conversation with you when you get close to the fourth year mark.
 
 ```{r, echo=FALSE, out.width="100%",fig.align = 'center',fig.cap="Agatha immediately after her recent successful defence. Congrats, Agatha!"}
-knitr::include_graphics("img\\completion1.jpg")
+knitr::include_graphics(here::here("img\\completion1.jpg"))
 ```
 
 ## Publishing {-#publishing}
@@ -223,15 +223,15 @@ Nicholas typically funds 1 conference for MSc students and 2 conferences for PhD
 These conferences are a great opportunity to meet other scientists in your field, learn about their work, present your own, and make opportunities for collaboration.
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Francois speaking at Silvilaser 2019 in Foz de Iguazu."}
-knitr::include_graphics("img\\conference3.jpg")
+knitr::include_graphics(here::here("img\\conference3.jpg"))
 ```
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Annie speaking about her work at the Remote Sensing for Forest Practitioners workshop in Edmonton."}
-knitr::include_graphics("img\\conference2.jpg")
+knitr::include_graphics(here::here("img\\conference2.jpg"))
 ```
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="Sights to see at different conferences - Foz de Iguazu, Silvilaser 2019."}
-knitr::include_graphics("img\\conference1.jpg")
+knitr::include_graphics(here::here("img\\conference1.jpg"))
 ```
 
 During these conferences, you are typically eligible for a per diem (up to $60 USD per day). You should track the days you are away and submit an expense report to get reimbursed. To do so, visit the [workday portal](https://hr.ubc.ca/working-ubc/welcome-workday). From there, click on 'Expenses' in the main menu, and submit a report. If you have any other questions, you can email [Gladys Tecson](https://frm.forestry.ubc.ca/people/staff/) (`gladys.tecson@ubc.ca`). It takes a little while to be processed, but you will be reimbursed.
