@@ -43,8 +43,8 @@ jobs:
         with:
           name: _book
           path: _book/
-          
-   checkout-and-deploy:
+  
+  checkout-and-deploy:
    runs-on: ubuntu-20.04
    needs: bookdown
    steps:
