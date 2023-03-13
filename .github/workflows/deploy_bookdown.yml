@@ -1,11 +1,10 @@
 on:
   push:
-     branches:
-       - master
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
 
-  
-
-name: renderbook
+name: bookdown
 
 jobs:
   bookdown:
