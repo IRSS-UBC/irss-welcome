@@ -208,6 +208,26 @@ Nicholas encourages you to write academic papers about the components of your th
 
 More often than not students defend before they have published their 2nd or 4th paper. Nicholas addresses writing papers in the mini-proposal and mini-to-full proposal videos.
 
+## Co-Authorship {-#coauthorship}
+
+Co-authorship should be discussed before writing a manuscript. It's a good idea to determine your key authors (usually yourself and Nicholas) and invite people on as co-authors as required to fill knowledge or skill gaps or to provide deep discussion and contributions.
+
+In all the terms and categories of contributions of authorship, the key is significant contributions. This is usually a contribution to more than two categories - or perhaps 20% - to provide their expertise (particularly to the discussion section of the paper), revise the manuscript before submission and overall improve the quality of your paper. Using the CRediT author statement system is a good way to guide you.
+
+If someone aids you in any part of your project (enough to be considered as co-author), that person must also agree to review the document for contributions in interpretations, and implications (particularly in areas of their contributions) and general comments and feedback. As stated by ESA: “Researchers will not include as coauthor(s) any individual who has not agreed to the content of the final version of the manuscript”
+
+Note that order of co-authorship is something to consider. Normally the first author provides the greatest contribution. Often in natural science, the remaining order is often by effort/contribution. (For this reason, Coops is often listed as second to a grad student’s publication). In ecology, by contrast, the last author is the principal investigator regardless of contribution. (For this reason, Cole Burton and Peter Arcese are listed last on their students’ publications)
+
+Awareness is key; small acts of collaboration do not guarantee co-authorship, though it could be worse to accidentally exclude someone from co-authorship than to invite them as one and have them decline.
+If you’re unsure whether or not someone’s co-authorship is warranted, ask Nicholas or the person in question.
+
+Other resources:
+
+* [Notes from lab discussion about co-authorship](https://docs.google.com/document/d/15BIKwQJo0o95GjHeVtOrqfHjCH6zmnYC/edit)
+
+* [Blog post from lab postdoc Amy Wotherspoon about co-authorship](https://amywotherspoon.wixsite.com/amyw/post/navigating-co-authorship-a-guide-for-grad-students)
+
+
 ## Conferences {-#conferences}
 
 Nicholas typically funds 1 conference for MSc students and 2 conferences for PhD students. Examples include:
