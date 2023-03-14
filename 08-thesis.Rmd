@@ -223,9 +223,13 @@ If you’re unsure whether or not someone’s co-authorship is warranted, ask Ni
 
 Other resources:
 
-* [Notes from lab discussion about co-authorship](https://docs.google.com/document/d/15BIKwQJo0o95GjHeVtOrqfHjCH6zmnYC/edit)
+* [Notes from Feb 2023 lab discussion about co-authorship](https://docs.google.com/document/d/15BIKwQJo0o95GjHeVtOrqfHjCH6zmnYC/edit)
 
 * [Blog post from lab postdoc Amy Wotherspoon about co-authorship](https://amywotherspoon.wixsite.com/amyw/post/navigating-co-authorship-a-guide-for-grad-students)
+
+* [Elsevier journal explanation of CRediT authorship system ](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement)
+
+* [Another useful elsevier guide on authorship](https://www.elsevier.com/__data/promis_misc/RESINV_GfA.pdf)
 
 
 ## Conferences {-#conferences}
