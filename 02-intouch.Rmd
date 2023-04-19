@@ -22,9 +22,14 @@ You’ll quickly notice that the conversations on Slack (especially on #general)
 *In using slack you are agreeing to have acknowledged the following disclaimer:*
 
 ```
-Your personal information is collected under the authority of section 26(c) of the Freedom of Information and Protection of Privacy Act (FOIPPA). This information will be used for the purpose of managing your registration and account with Slack. Your personal information will be stored on a secure service within the USA. 
+Your personal information is collected under the authority of section 26(c) of the Freedom
+of Information and Protection of Privacy Act (FOIPPA). This information will be used for 
+the purpose of managing your registration and account with Slack. 
+Your personal information will be stored on a secure service within the USA. 
 
-Questions about the collection of this information may be directed to forestry.ithelp@ubc.ca.
+Questions about the collection of this information may be directed to:
+
+forestry.ithelp@ubc.ca.
 ```
 
 ## Email {-#email}
