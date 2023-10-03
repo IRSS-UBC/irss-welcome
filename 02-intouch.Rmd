@@ -3,7 +3,7 @@ There are two main forms of communication in the lab: **Slack** and **email**.
 
 
 ## Slack {-#slack}
-[Slack](https://slack.com/intl/en-ca/) is a popular messaging platform. When you become a lab member you’ll receive an invitation to the IRSS Slack channel. Follow up with Nicholas if you haven’t yet.
+[Slack](https://slack.com/intl/en-ca/) is a popular messaging platform. When you become a lab member you’ll receive an invitation to the IRSS Slack channel. Follow up with Nicholas if you haven’t yet. Please use your UBC email address to sign up for Slack.
 
 The IRSS Slack portal ID is `ubc-irss.slack.com`
 
