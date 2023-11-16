@@ -1,5 +1,9 @@
 --- 
 title: "Welcome to the IRSS"
+```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
+knitr::include_graphics(here::here("img/IRSS_gif_2.gif"))
+```
+
 author: "The Integrated Remote Sensing Studio - UBC"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -57,6 +61,3 @@ This document is a brief introduction to the IRSS lab. It provides:
 
 * [Resources](#resources) for anyone new to UBC or Vancouver
 
-```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
-knitr::include_graphics(here::here("img/IRSS_gif_2.gif"))
-```
