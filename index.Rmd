@@ -35,11 +35,13 @@ readr::write_lines(htmlhead, file = "header.html")
 
 ```
 
+
+---
+
 ```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
 knitr::include_graphics(here::here("img/IRSS_gif_2.gif"))
 ```
 
----
 # Overview {-#overview}
 
 This document is a brief introduction to the IRSS lab. It provides:
