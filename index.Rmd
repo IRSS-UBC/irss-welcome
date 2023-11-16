@@ -1,9 +1,5 @@
 --- 
 title: "Welcome to the IRSS"
-```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
-knitr::include_graphics(here::here("img/IRSS_gif_2.gif"))
-```
-
 author: "The Integrated Remote Sensing Studio - UBC"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -39,6 +35,9 @@ readr::write_lines(htmlhead, file = "header.html")
 
 ```
 
+```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
+knitr::include_graphics(here::here("img/IRSS_gif_2.gif"))
+```
 
 ---
 # Overview {-#overview}
