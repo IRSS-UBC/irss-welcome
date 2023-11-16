@@ -57,6 +57,6 @@ This document is a brief introduction to the IRSS lab. It provides:
 
 * [Resources](#resources) for anyone new to UBC or Vancouver
 
-```{r, echo=FALSE, out.width="100%",fig.align = 'center'}
+```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
 knitr::include_graphics(here::here("img/IRSS_gif_2.gif"))
 ```
