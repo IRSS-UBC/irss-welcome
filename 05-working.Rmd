@@ -2,7 +2,7 @@
 
 The lab  has an alarm system that must be engaged at the end of the day by the last person out, and disengaged by the first person in. Its important to know how to use the alarm system. See the video `\\FRST-IRSStor\Root\ByProject\Orientation\Orientation_Videos\Alarm_Demo.mp4` to familiarize yourself.
 
-Students are encouraged to be active members by coming into UBC each day. Students should limit spending large amounts of time working from home - with caveats related to illness. COVID-19 has changed how people work, and we appreciate that everyone has different working styles. Some students wishing to arrive early and leave early, while others may choose to arrive late and work late. Nicholas considers the hours between 10 - 2 pm as being critical hours that everyone is reachable and working.
+Students are encouraged to be active members by coming into UBC each day. Students should limit spending large amounts of time working from home - with caveats related to illness. COVID-19 has changed how people work, and we appreciate that everyone has different working styles. Some students wishing to arrive early and leave early, while others may choose to arrive late and work late. Nicholas considers the hours between 10 - 2 pm as being critical hours that everyone is reachable and working. Lab meetings occur on Mondays at 10 am, and students are expected to be present. 
 
 ```{r, echo=FALSE, out.width="75%",fig.align = 'center',fig.cap="The western lab room (Room 2231)."}
 knitr::include_graphics(here::here("img/lab2.jpg"))
