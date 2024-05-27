@@ -118,9 +118,9 @@ knitr::include_graphics(here::here("img/rdp.png"))
 
 In the lab, we can use the Windows Remote Desktop Connection tool to connect to our machines when we are away from the lab. There are a few steps to follow in order to connect to your lab machine:
 
-1. To connect from home, sign-up for an Enhanced CWL that uses multi-factor authentication. Typically, this involves authentication using the Duo app on your smartphone: https://knowit.ok.ubc.ca/article.php?id=974
+1. To connect from home, sign-up for an Enhanced CWL that uses multi-factor authentication. Typically, this involves authentication using the Duo app on your smartphone: https://it.ubc.ca/services/accounts-passwords/multi-factor-authentication-mfa
 
-2. Connect to a VPN. You should have Cisco AnyConnect installed on your work laptop, but it can also be downloaded from https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents. When logging into the VPN, ensure that you are using `myvpn.ubc.ca`. Your CWL must be expressed as `YourCWL.frsc@app`. If your Enhanced CWL and VPN are setup correctly, you should receive a Duo login request on your smartphone. Approve this login request to complete the VPN connection. Additional information about logging in using an Enhanced CWL be found here: https://knowit.ok.ubc.ca/article/how-do-i-connect-to-vpn-with-enhanced-cwl-975.html
+2. Connect to a VPN. You should have Cisco AnyConnect installed on your work laptop, but it can also be downloaded from https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents. When logging into the VPN, ensure that you are using `myvpn.ubc.ca`. Your CWL must be expressed as `YourCWL.frsc@app`. If your Enhanced CWL and VPN are setup correctly, you should receive a Duo login request on your smartphone. Approve this login request to complete the VPN connection. Additional information about logging in using an Enhanced CWL be found here: https://ubc.service-now.com/kb_view.do?sysparm_article=KB0018724&ga=
 
 
 3. Open Remote Desktop Connection and enter your computer's name as follows: `frst-frm-22XYZ.ead.ubc.ca`, where `XYZ` are the digits/letter unique to your desktop (there will be a sticker on the top of your computer tower with these details). Enter your Remote Desktop Connection username as `EAD\YourCWL`.
