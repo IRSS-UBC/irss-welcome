@@ -101,14 +101,8 @@ ByProject contains datasets related to research projects. ByUser is a space for 
 
 It's important that you **do not use IRSS shared drives as your file backup folder** as storage space on these drives is limited.
 
-To map these drives to your machine do the following:
+A tutorial on how  map these drives to your machine is available here: https://github.com/IRSS-UBC/NetworkShares/blob/main/README.md
 
-1. Open File Explorer > right-click on `‘This PC’` (found in left side list) > click `‘map network drive’`
-2. Choose a letter (e.g. “Z”) and paste the following `\\FRST-IRSStor\Root\ByProject`
-
-3. Repeat this process and assign a different letter (e.g. “Y”) to the second network folder: `\\FRST-IRSStor\Root\ByUser`
-
-These same steps are followed to add the backup server discussed [above](#backup).
 
 ## Connecting from home {-#rdp}
 
