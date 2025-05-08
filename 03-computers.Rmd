@@ -101,7 +101,7 @@ ByProject contains datasets related to research projects. ByUser is a space for 
 
 It's important that you **do not use IRSS shared drives as your file backup folder** as storage space on these drives is limited.
 
-#### Connecting to ByUser and ByProject
+**Connecting to ByUser and ByProject**
 To connect to ByUser and ByProject, it is recommended to create a shortcut to the network paths. This will limit the number of active users on the shares, speeding up the upload and download process, and will prevent overwhelming the server when it is not in use.
 
 To do this:
@@ -116,7 +116,7 @@ Follow the same steps for ByProject, replacing "ByUser" with "ByProject" in both
 
 You can now access these shares by opening the shortcuts.
 
-#### Moving Files To/From Network
+**Moving Files To/From Network**
 To move files to or from the network shares, you **must** use the following robocopy command:
 
 `robocopy <SOURCE> <DESTINATION> /XA:SH /E /MT /ZB`
@@ -133,7 +133,7 @@ To move files to or from the network shares, you **must** use the following robo
 
 *Note: These network shares are for storing data only. DO NOT work directly off these shares; copy the files you need to your local machine and process your data locally.*
 
-#### Additional Notes
+**Additional Notes**
 - On the second Tuesday night of every month, the network shares will be rebooted. This reboot removes any lock files that may accumulate on the network when files are accessed directly rather than being copied locally. Please do not copy any files during this time, as doing so may result in corrupted files or missing data.
 
 - Please do not map the network drives to a drive letter (old way) but create a shortcut instead!
