@@ -291,6 +291,9 @@ for /d %%X in (*) do &quot;c:\Program Files\7-Zip\7z.exe&quot; a &quot;%%X.zip&q
 <p><strong>Moving Files To/From Network</strong></p>
 <p>To move files to or from the network shares, you <strong>must</strong> use the following robocopy command:</p>
 <p><code>robocopy &lt;SOURCE&gt; &lt;DESTINATION&gt; /XA:SH /E /MT /ZB</code></p>
+<p><strong>Additional Notes</strong>
+On the second Tuesday night of every month, the network shares will be rebooted. This reboot removes any lock files that may accumulate on the network when files are accessed directly rather than being copied locally. Please do not copy any files during this time, as doing so may result in corrupted files or missing data.</p>
+<p>Please do not map the network drives to a drive letter (old way) but create a shortcut instead!</p>
 </div>
 </div>
 <div id="rdp" class="section level2 unnumbered hasAnchor">
