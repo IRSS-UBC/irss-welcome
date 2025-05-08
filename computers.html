@@ -288,6 +288,9 @@ for /d %%X in (*) do &quot;c:\Program Files\7-Zip\7z.exe&quot; a &quot;%%X.zip&q
 6. Click <strong>Finish</strong>.</p>
 <p>Follow the same steps for ByProject, replacing “ByUser” with “ByProject” in both the item location and the shortcut name.</p>
 <p>You can now access these shares by opening the shortcuts.</p>
+<p><strong>Moving Files To/From Network</strong></p>
+<p>To move files to or from the network shares, you <strong>must</strong> use the following robocopy command:</p>
+<p><code>robocopy &lt;SOURCE&gt; &lt;DESTINATION&gt; /XA:SH /E /MT /ZB</code></p>
 </div>
 </div>
 <div id="rdp" class="section level2 unnumbered hasAnchor">
