@@ -115,6 +115,12 @@ Follow the same steps for ByProject, replacing "ByUser" with "ByProject" in both
 
 You can now access these shares by opening the shortcuts.
 
+**Moving Files To/From Network**
+
+To move files to or from the network shares, you **must** use the following robocopy command:
+
+`robocopy <SOURCE> <DESTINATION> /XA:SH /E /MT /ZB`
+
 
 
 ## Connecting from home {-#rdp}
