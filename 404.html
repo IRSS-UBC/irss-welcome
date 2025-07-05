@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script type="text/javascript">
+    // Get the current path and search query
+    var path = window.location.pathname;
+    var search = window.location.search;
+    var hash = window.location.hash;
+
+    // Construct a new URL that points to the root and passes the original
+    // path and query as parameters. The `p` parameter holds the path.
+    var redirectUrl = window.location.protocol + '//' + window.location.host +
+                      '/?p=' + encodeURIComponent(path.substring(1)) +
+                      (search ? '&q=' + encodeURIComponent(search.substring(1)) : '') +
+                      hash;
+
+    // Perform the redirect
+    window.location.replace(redirectUrl);
+  </script>
+</head>
+<body>
+</body>
+</html>
